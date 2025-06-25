@@ -1,4 +1,4 @@
-class Car:
+class Car():
     def start(self):
         print("Starting the car...")
 
